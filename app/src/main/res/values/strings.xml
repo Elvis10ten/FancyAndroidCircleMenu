@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">FancyCircleMenu</string>
+
+    <!-- Main Page Start -->
+    <string name="contentDescStartGame">Start game</string>
+    <string name="contentDescMyProfile">My profile</string>
+    <string name="contentDescAddPlayers">Add players</string>
+    <string name="contentDescBackup">Backup</string>
+    <!-- Main Page End -->
+
+</resources>

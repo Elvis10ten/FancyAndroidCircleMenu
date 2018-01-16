@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Theme Colors Start -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Theme Colors End -->
+
+    <!-- FloatingActionButtons Colors Start  -->
+    <color name="colorRedAccent">#FF5252</color>
+    <color name="colorBlueAccent">#448AFF</color>
+    <color name="colorOrangeAccent">#FF9800</color>
+    <color name="colorGreenAccent">#4CAF50</color>
+    <!-- FloatingActionButtons Colors End -->
+
+</resources>
